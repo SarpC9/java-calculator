@@ -1,6 +1,9 @@
 
 import java.util.*;
 
+/**
+* The class for making simple calculations
+*/
 public class Calculator {
 
     public static void main(String args[]) {
